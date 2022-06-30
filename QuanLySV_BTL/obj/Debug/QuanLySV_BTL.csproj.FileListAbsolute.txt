@@ -1,0 +1,52 @@
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\bin\Debug\QuanLySV_BTL.exe.config
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\bin\Debug\QuanLySV_BTL.exe
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\bin\Debug\QuanLySV_BTL.pdb
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.AssemblyReference.cache
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.Properties.Resources.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.GenerateResource.cache
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.CoreCompileInputs.cache
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.exe
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.pdb
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.Frmmain.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmSinhVien.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachGiaoVien.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachSinhVien.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmGiaoVien.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachMonHoc.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmMonHoc.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachDiemThi.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmWelcome.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachLopHoc.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmLopHoc.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDangNhap.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDangKyMonHoc.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDSMonHocDangKy.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmKetQuaHocTap.resources
+C:\Users\Tu Nguyen\source\repos\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.Frm_QuanLyLop.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\bin\Debug\QuanLySV_BTL.exe.config
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\bin\Debug\QuanLySV_BTL.exe
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\bin\Debug\QuanLySV_BTL.pdb
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.AssemblyReference.cache
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.SuggestedBindingRedirects.cache
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDangKyMonHoc.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDangNhap.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachDiemThi.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachGiaoVien.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachLopHoc.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachMonHoc.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDanhSachSinhVien.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmDSMonHocDangKy.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmGiaoVien.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmKetQuaHocTap.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmLopHoc.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.Frmmain.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmMonHoc.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmSinhVien.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.FrmWelcome.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.Frm_QuanLyLop.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.Properties.Resources.resources
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.GenerateResource.cache
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.csproj.CoreCompileInputs.cache
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.exe
+D:\projects\C#\BTL-Kết thúc Môn\QuanLySV_BTL\QuanLySV_BTL\obj\Debug\QuanLySV_BTL.pdb
